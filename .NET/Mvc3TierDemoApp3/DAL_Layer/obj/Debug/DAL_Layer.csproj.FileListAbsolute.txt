@@ -1,0 +1,6 @@
+D:\바탕화면\입사 지원\Itlize training\training_git\.NET\Mvc3TierDemoApp3\DAL_Layer\bin\Debug\DAL_Layer.dll
+D:\바탕화면\입사 지원\Itlize training\training_git\.NET\Mvc3TierDemoApp3\DAL_Layer\bin\Debug\DAL_Layer.pdb
+D:\바탕화면\입사 지원\Itlize training\training_git\.NET\Mvc3TierDemoApp3\DAL_Layer\obj\Debug\DAL_Layer.csproj.AssemblyReference.cache
+D:\바탕화면\입사 지원\Itlize training\training_git\.NET\Mvc3TierDemoApp3\DAL_Layer\obj\Debug\DAL_Layer.csproj.CoreCompileInputs.cache
+D:\바탕화면\입사 지원\Itlize training\training_git\.NET\Mvc3TierDemoApp3\DAL_Layer\obj\Debug\DAL_Layer.dll
+D:\바탕화면\입사 지원\Itlize training\training_git\.NET\Mvc3TierDemoApp3\DAL_Layer\obj\Debug\DAL_Layer.pdb
